@@ -1,0 +1,29 @@
+{
+  "name": "@f0c1s/ifeq",
+  "version": "1.0.0",
+  "description": "If equals flow in nodejs",
+  "main": "src/ifeq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/node-ifeq.git"
+  },
+  "keywords": [
+    "if-equal"
+  ],
+  "author": "Anubhav <iamanubhavsaini@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/node-ifeq/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/node-ifeq#readme",
+  "cpu": [
+    "x64"
+  ],
+  "engines": {
+    "node": ">=15.7.0"
+  }
+}
